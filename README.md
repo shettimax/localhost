@@ -29,8 +29,8 @@ A collection of smart, bash-powered scripts for managing local development envir
 
 Make scripts executable:
 ```bash
-chmod +x setup-local-domain-smart.sh
-chmod +x localhost-service-manager.sh
+chmod +x customdomain.sh
+chmod +x localhost.sh
 Run them as
 ./customdomain.sh
 ./localhost.sh
