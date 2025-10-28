@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author: SHETTIMAX
-# Description: Linux localhost service manager for Apache, MySQL, SSH
+# Description: Linux localh0st service manager for Apache, MySQL, SSH
 
 # === Color codes ===
 RED='\033[0;31m'
