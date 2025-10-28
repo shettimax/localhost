@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Shettimax
+# Author: SHETTIMAX
 # Description: Linux localhost service manager for Apache, MySQL, SSH
 
 # === Color codes ===
